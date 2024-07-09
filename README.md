@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SMSRZ/LC/tree/master/0075-sort-colors) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
+| [1803-average-waiting-time](https://github.com/SMSRZ/LC/tree/master/1803-average-waiting-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SMSRZ/LC/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/SMSRZ/LC/tree/master/1803-average-waiting-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SMSRZ/LC/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
