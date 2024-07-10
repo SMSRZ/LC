@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SMSRZ/LC/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SMSRZ/LC/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SMSRZ/LC/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SMSRZ/LC/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SMSRZ/LC/tree/master/2271-rearrange-array-elements-by-sign) |
