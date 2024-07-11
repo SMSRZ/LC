@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SMSRZ/LC/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1803-average-waiting-time](https://github.com/SMSRZ/LC/tree/master/1803-average-waiting-time) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/SMSRZ/LC/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SMSRZ/LC/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SMSRZ/LC/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
