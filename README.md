@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SMSRZ/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/SMSRZ/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
+| [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SMSRZ/LC/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
 | [1803-average-waiting-time](https://github.com/SMSRZ/LC/tree/master/1803-average-waiting-time) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SMSRZ/LC/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SMSRZ/LC/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
