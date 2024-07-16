@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SMSRZ/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/SMSRZ/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SMSRZ/LC/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SMSRZ/LC/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SMSRZ/LC/tree/master/0219-contains-duplicate-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/SMSRZ/LC/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SMSRZ/LC/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/SMSRZ/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SMSRZ/LC/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/SMSRZ/LC/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SMSRZ/LC/tree/master/0217-contains-duplicate) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SMSRZ/LC/tree/master/0204-count-primes) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SMSRZ/LC/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
