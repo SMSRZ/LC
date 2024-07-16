@@ -1,41 +1,23 @@
 class Solution {
-    public int longestConsecutive(int[] nums) {/*
-        //the most naive approach is that we can use linear search to get x,x+1,x+2.....
-        //if the element is found then increase the count
+    public int longestConsecutive(int[] nums) {
+        //optimal approACH
         if(nums.length==0)return 0;
-        int longest = 1;
-        for(int i=0; i<nums.length; i++){
-            int x = nums[i];
-            int count = 1;
-            while(linearsearch(nums,x+1)==true){
-                count++;
-                x+=1;
-            }
-            longest=Math.max(longest,count);
+        int longest = Integer.MIN_VALUE;
+        Set<Integer> hs = new HashSet<>();
+        for(int ele : nums){
+           hs.add(ele);
         }
-        return longest;
-    }
-    public boolean linearsearch(int[] nums, int a){
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==a){
-                return true;
+        for(int k : hs){
+            if(!hs.contains(k-1)){//if the current element is starting element
+            int cnt = 1;//take count
+            int x = k;//take current element in variable
+            while(hs.contains(x+1)){ // check if there is an element which is 1 greater than starting element 
+                x= x+1;//increase the current element to 1
+                cnt++;//increment count 
             }
+             longest = Math.max(longest,cnt);//tale longest sequence
         }
-        return false;*/
-        Arrays.sort(nums);
-        if(nums.length==0){return 0;}
-        int count=1;
-        int longest=1;
-        int lastsmaller = Integer.MIN_VALUE;
-        for(int i=0; i<nums.length; i++){
-            if(nums[i]==lastsmaller+1){
-                lastsmaller+=1;
-                count++;
-            }else if(nums[i]!=lastsmaller){
-                lastsmaller=nums[i];
-                count=1;
-            }
-            longest = Math.max(longest,count);
+           
         }
         return longest;
     }
