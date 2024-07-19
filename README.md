@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SMSRZ/LC/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/SMSRZ/LC/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
 | [1803-average-waiting-time](https://github.com/SMSRZ/LC/tree/master/1803-average-waiting-time) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SMSRZ/LC/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SMSRZ/LC/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/SMSRZ/LC/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
