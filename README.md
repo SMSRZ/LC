@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
 | [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/SMSRZ/LC/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SMSRZ/LC/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SMSRZ/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SMSRZ/LC/tree/master/0219-contains-duplicate-ii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SMSRZ/LC/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
 | ------- |
