@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/SMSRZ/LC/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/SMSRZ/LC/tree/master/1674-minimum-operations-to-make-array-equal) |
 ## Enumeration
 |  |
 | ------- |
