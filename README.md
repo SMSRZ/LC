@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SMSRZ/LC/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SMSRZ/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SMSRZ/LC/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/SMSRZ/LC/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SMSRZ/LC/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/SMSRZ/LC/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SMSRZ/LC/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMSRZ/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/SMSRZ/LC/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
