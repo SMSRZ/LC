@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/SMSRZ/LC/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SMSRZ/LC/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SMSRZ/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SMSRZ/LC/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SMSRZ/LC/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/SMSRZ/LC/tree/master/2350-find-closest-number-to-zero) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SMSRZ/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
+## Graph
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SMSRZ/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SMSRZ/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
