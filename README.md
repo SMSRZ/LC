@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SMSRZ/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SMSRZ/LC/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SMSRZ/LC/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SMSRZ/LC/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SMSRZ/LC/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SMSRZ/LC/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SMSRZ/LC/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SMSRZ/LC/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SMSRZ/LC/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/SMSRZ/LC/tree/master/2350-find-closest-number-to-zero) |
 | [2727-number-of-senior-citizens](https://github.com/SMSRZ/LC/tree/master/2727-number-of-senior-citizens) |
