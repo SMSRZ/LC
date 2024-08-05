@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SMSRZ/LC/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SMSRZ/LC/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SMSRZ/LC/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/SMSRZ/LC/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SMSRZ/LC/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
 | [1803-average-waiting-time](https://github.com/SMSRZ/LC/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SMSRZ/LC/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SMSRZ/LC/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SMSRZ/LC/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Simulation
 |  |
 | ------- |
