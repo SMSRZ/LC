@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SMSRZ/LC/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SMSRZ/LC/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/SMSRZ/LC/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/SMSRZ/LC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SMSRZ/LC/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/SMSRZ/LC/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/SMSRZ/LC/tree/master/0983-validate-stack-sequences) |
@@ -234,9 +235,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SMSRZ/LC/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/SMSRZ/LC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SMSRZ/LC/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SMSRZ/LC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SMSRZ/LC/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
