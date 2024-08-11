@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SMSRZ/LC/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/SMSRZ/LC/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/SMSRZ/LC/tree/master/1511-count-number-of-teams) |
 ## String Matching
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SMSRZ/LC/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/SMSRZ/LC/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/SMSRZ/LC/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/SMSRZ/LC/tree/master/1674-minimum-operations-to-make-array-equal) |
 ## Enumeration
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SMSRZ/LC/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SMSRZ/LC/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/SMSRZ/LC/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SMSRZ/LC/tree/master/0295-find-median-from-data-stream) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
