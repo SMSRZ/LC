@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/SMSRZ/LC/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/SMSRZ/LC/tree/master/0741-cherry-pickup) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/SMSRZ/LC/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/SMSRZ/LC/tree/master/1019-squares-of-a-sorted-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SMSRZ/LC/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/SMSRZ/LC/tree/master/0279-perfect-squares) |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
+| [0741-cherry-pickup](https://github.com/SMSRZ/LC/tree/master/0741-cherry-pickup) |
 | [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/SMSRZ/LC/tree/master/1511-count-number-of-teams) |
 ## String Matching
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0741-cherry-pickup](https://github.com/SMSRZ/LC/tree/master/0741-cherry-pickup) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SMSRZ/LC/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
