@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SMSRZ/LC/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/SMSRZ/LC/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SMSRZ/LC/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SMSRZ/LC/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/SMSRZ/LC/tree/master/0279-perfect-squares) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SMSRZ/LC/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SMSRZ/LC/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SMSRZ/LC/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SMSRZ/LC/tree/master/0204-count-primes) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SMSRZ/LC/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SMSRZ/LC/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
