@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SMSRZ/LC/tree/master/0207-course-schedule) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SMSRZ/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SMSRZ/LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SMSRZ/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SMSRZ/LC/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/SMSRZ/LC/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SMSRZ/LC/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/SMSRZ/LC/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/SMSRZ/LC/tree/master/0279-perfect-squares) |
 | [1036-rotting-oranges](https://github.com/SMSRZ/LC/tree/master/1036-rotting-oranges) |
 ## Data Stream
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SMSRZ/LC/tree/master/0040-combination-sum-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SMSRZ/LC/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
