@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/SMSRZ/LC/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/SMSRZ/LC/tree/master/0741-cherry-pickup) |
+| [0890-lemonade-change](https://github.com/SMSRZ/LC/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/SMSRZ/LC/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/SMSRZ/LC/tree/master/1019-squares-of-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/SMSRZ/LC/tree/master/0890-lemonade-change) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SMSRZ/LC/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
