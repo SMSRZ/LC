@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SMSRZ/LC/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SMSRZ/LC/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SMSRZ/LC/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/SMSRZ/LC/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/SMSRZ/LC/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/SMSRZ/LC/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
