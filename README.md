@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SMSRZ/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/SMSRZ/LC/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SMSRZ/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SMSRZ/LC/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SMSRZ/LC/tree/master/0142-linked-list-cycle-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SMSRZ/LC/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SMSRZ/LC/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SMSRZ/LC/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SMSRZ/LC/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SMSRZ/LC/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SMSRZ/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SMSRZ/LC/tree/master/0152-maximum-product-subarray) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SMSRZ/LC/tree/master/0073-set-matrix-zeroes) |
 | [0741-cherry-pickup](https://github.com/SMSRZ/LC/tree/master/0741-cherry-pickup) |
 | [1036-rotting-oranges](https://github.com/SMSRZ/LC/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SMSRZ/LC/tree/master/1496-lucky-numbers-in-a-matrix) |
