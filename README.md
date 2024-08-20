@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SMSRZ/LC/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/SMSRZ/LC/tree/master/0279-perfect-squares) |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/SMSRZ/LC/tree/master/0650-2-keys-keyboard) |
 | [0741-cherry-pickup](https://github.com/SMSRZ/LC/tree/master/0741-cherry-pickup) |
 | [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/SMSRZ/LC/tree/master/1511-count-number-of-teams) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SMSRZ/LC/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/SMSRZ/LC/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/SMSRZ/LC/tree/master/0279-perfect-squares) |
+| [0650-2-keys-keyboard](https://github.com/SMSRZ/LC/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/SMSRZ/LC/tree/master/1674-minimum-operations-to-make-array-equal) |
