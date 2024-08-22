@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SMSRZ/LC/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SMSRZ/LC/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SMSRZ/LC/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/SMSRZ/LC/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SMSRZ/LC/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SMSRZ/LC/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SMSRZ/LC/tree/master/0075-sort-colors) |
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SMSRZ/LC/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/SMSRZ/LC/tree/master/0890-lemonade-change) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SMSRZ/LC/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SMSRZ/LC/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/SMSRZ/LC/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SMSRZ/LC/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SMSRZ/LC/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SMSRZ/LC/tree/master/0152-maximum-product-subarray) |
