@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/SMSRZ/LC/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/SMSRZ/LC/tree/master/0741-cherry-pickup) |
+| [0792-binary-search](https://github.com/SMSRZ/LC/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/SMSRZ/LC/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/SMSRZ/LC/tree/master/0983-validate-stack-sequences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMSRZ/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/SMSRZ/LC/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/SMSRZ/LC/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
