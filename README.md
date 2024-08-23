@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/SMSRZ/LC/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SMSRZ/LC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMSRZ/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SMSRZ/LC/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/SMSRZ/LC/tree/master/0040-combination-sum-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SMSRZ/LC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMSRZ/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SMSRZ/LC/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/SMSRZ/LC/tree/master/0162-find-peak-element) |
