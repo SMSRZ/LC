@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/SMSRZ/LC/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMSRZ/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SMSRZ/LC/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/SMSRZ/LC/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SMSRZ/LC/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SMSRZ/LC/tree/master/0048-rotate-image) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMSRZ/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SMSRZ/LC/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/SMSRZ/LC/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/SMSRZ/LC/tree/master/0792-binary-search) |
