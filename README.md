@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/SMSRZ/LC/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/SMSRZ/LC/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/SMSRZ/LC/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/SMSRZ/LC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/SMSRZ/LC/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SMSRZ/LC/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SMSRZ/LC/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SMSRZ/LC/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SMSRZ/LC/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/SMSRZ/LC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SMSRZ/LC/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
