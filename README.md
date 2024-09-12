@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SMSRZ/LC/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/SMSRZ/LC/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SMSRZ/LC/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2727-number-of-senior-citizens](https://github.com/SMSRZ/LC/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SMSRZ/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sliding Window
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SMSRZ/LC/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SMSRZ/LC/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/SMSRZ/LC/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SMSRZ/LC/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SMSRZ/LC/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SMSRZ/LC/tree/master/0229-majority-element-ii) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/SMSRZ/LC/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -366,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/SMSRZ/LC/tree/master/0260-single-number-iii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
