@@ -1,26 +1,17 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        //First make two lists that contains positive and negative element 
-        //then create a new array and then add the elements one by one 
-        //return the array
-        ArrayList<Integer> pos = new ArrayList();
-        ArrayList<Integer> neg = new ArrayList();
-        for(int n : nums){
-            if(n>0){
-                pos.add(n);
-            }
-            if(n<0){
-                neg.add(n);
-            }
-        }
         int[] res = new int[nums.length];
-        int k=0;
-        int c=0;
-        while(c<pos.size()){
-            res[k]=pos.get(c);
-            res[k+1]=neg.get(c);
-            k+=2;
-            c++;
+        int posIdx = 0;
+        int negIdx = 1;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>0){
+                res[posIdx]=nums[i];
+                posIdx+=2;
+            }
+            if(nums[i]<0){
+                res[negIdx]=nums[i];
+                negIdx+=2;
+            }
         }
         return res;
     }
