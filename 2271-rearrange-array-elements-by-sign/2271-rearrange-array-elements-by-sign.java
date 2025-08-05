@@ -1,34 +1,27 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        //int this brute force approach we create two arrays for positives and
-        // negatives then we store these elements in nums on even and odd places 
-        /*
-        List<Integer> pos = new ArrayList<>();
-        List<Integer> neg = new ArrayList<>();
-        for(int k : nums){
-            if(k>0){
-                pos.add(k);
-            }else{
-                neg.add(k);
+        //First make two lists that contains positive and negative element 
+        //then create a new array and then add the elements one by one 
+        //return the array
+        ArrayList<Integer> pos = new ArrayList();
+        ArrayList<Integer> neg = new ArrayList();
+        for(int n : nums){
+            if(n>0){
+                pos.add(n);
+            }
+            if(n<0){
+                neg.add(n);
             }
         }
-        for(int i=0;i<nums.length/2; i++){
-            nums[2*i] = pos.get(i);
-            nums[(2*i)+1] = neg.get(i);
+        int[] res = new int[nums.length];
+        int k=0;
+        int c=0;
+        while(c<pos.size()){
+            res[k]=pos.get(c);
+            res[k+1]=neg.get(c);
+            k+=2;
+            c++;
         }
-        return nums;*/
-        int[] ans = new int[nums.length];
-        int posindex = 0;
-        int negindex = 1;
-        for(int i=0; i<nums.length; i++){
-            if(nums[i]<0){
-                ans[negindex] = nums[i];
-                negindex+=2;
-            }else{
-                ans[posindex] = nums[i];
-                posindex+=2;
-            }
-        }
-        return ans;
-        }
+        return res;
     }
+}
