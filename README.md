@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SMSRZ/LC/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SMSRZ/LC/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/SMSRZ/LC/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/SMSRZ/LC/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SMSRZ/LC/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SMSRZ/LC/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SMSRZ/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SMSRZ/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/SMSRZ/LC/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/SMSRZ/LC/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
