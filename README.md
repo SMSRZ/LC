@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SMSRZ/LC/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SMSRZ/LC/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SMSRZ/LC/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SMSRZ/LC/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/SMSRZ/LC/tree/master/1319-unique-number-of-occurrences) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SMSRZ/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SMSRZ/LC/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/SMSRZ/LC/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SMSRZ/LC/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/SMSRZ/LC/tree/master/0273-integer-to-english-words) |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/SMSRZ/LC/tree/master/0812-rotate-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SMSRZ/LC/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SMSRZ/LC/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SMSRZ/LC/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SMSRZ/LC/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/SMSRZ/LC/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
