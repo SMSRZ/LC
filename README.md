@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SMSRZ/LC/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/SMSRZ/LC/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/SMSRZ/LC/tree/master/0279-perfect-squares) |
+| [0371-sum-of-two-integers](https://github.com/SMSRZ/LC/tree/master/0371-sum-of-two-integers) |
 | [0650-2-keys-keyboard](https://github.com/SMSRZ/LC/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/SMSRZ/LC/tree/master/0260-single-number-iii) |
+| [0371-sum-of-two-integers](https://github.com/SMSRZ/LC/tree/master/0371-sum-of-two-integers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SMSRZ/LC/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Segment Tree
