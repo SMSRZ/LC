@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SMSRZ/LC/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SMSRZ/LC/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/SMSRZ/LC/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/SMSRZ/LC/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SMSRZ/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SMSRZ/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SMSRZ/LC/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/SMSRZ/LC/tree/master/0273-integer-to-english-words) |
+| [0383-ransom-note](https://github.com/SMSRZ/LC/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/SMSRZ/LC/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SMSRZ/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SMSRZ/LC/tree/master/0567-permutation-in-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SMSRZ/LC/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SMSRZ/LC/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/SMSRZ/LC/tree/master/0383-ransom-note) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/SMSRZ/LC/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
