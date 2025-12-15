@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SMSRZ/LC/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SMSRZ/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SMSRZ/LC/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/SMSRZ/LC/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SMSRZ/LC/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/SMSRZ/LC/tree/master/0729-my-calendar-i) |
@@ -453,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/SMSRZ/LC/tree/master/0729-my-calendar-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SMSRZ/LC/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
