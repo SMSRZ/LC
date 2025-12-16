@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/SMSRZ/LC/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SMSRZ/LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SMSRZ/LC/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/SMSRZ/LC/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/SMSRZ/LC/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/SMSRZ/LC/tree/master/0983-validate-stack-sequences) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/SMSRZ/LC/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SMSRZ/LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SMSRZ/LC/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/SMSRZ/LC/tree/master/0875-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SMSRZ/LC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SMSRZ/LC/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SMSRZ/LC/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
