@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SMSRZ/LC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/SMSRZ/LC/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SMSRZ/LC/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SMSRZ/LC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/SMSRZ/LC/tree/master/1319-unique-number-of-occurrences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SMSRZ/LC/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SMSRZ/LC/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SMSRZ/LC/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SMSRZ/LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SMSRZ/LC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SMSRZ/LC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SMSRZ/LC/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SMSRZ/LC/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
