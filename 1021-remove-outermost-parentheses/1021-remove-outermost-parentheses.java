@@ -1,7 +1,5 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-        //my first approach would be i would take a variable and check if it is opening bracket i would increase it and vice versa 
-        //if the variable becomes 0 i would append the substring into a new string if it is possible 
 
         StringBuilder sb = new StringBuilder();
         int count = 0;
