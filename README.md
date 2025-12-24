@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SMSRZ/LC/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SMSRZ/LC/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/SMSRZ/LC/tree/master/1903-largest-odd-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/SMSRZ/LC/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SMSRZ/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sliding Window
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SMSRZ/LC/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/SMSRZ/LC/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/SMSRZ/LC/tree/master/0890-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/SMSRZ/LC/tree/master/1903-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/SMSRZ/LC/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SMSRZ/LC/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/SMSRZ/LC/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/SMSRZ/LC/tree/master/1903-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/SMSRZ/LC/tree/master/2155-find-missing-observations) |
 ## Enumeration
 |  |
