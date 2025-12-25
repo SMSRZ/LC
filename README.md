@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SMSRZ/LC/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/SMSRZ/LC/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SMSRZ/LC/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SMSRZ/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SMSRZ/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SMSRZ/LC/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/SMSRZ/LC/tree/master/1319-unique-number-of-occurrences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SMSRZ/LC/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SMSRZ/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/SMSRZ/LC/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/SMSRZ/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/SMSRZ/LC/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/SMSRZ/LC/tree/master/0796-rotate-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SMSRZ/LC/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/SMSRZ/LC/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SMSRZ/LC/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/SMSRZ/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SMSRZ/LC/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SMSRZ/LC/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SMSRZ/LC/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SMSRZ/LC/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/SMSRZ/LC/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/SMSRZ/LC/tree/master/0451-sort-characters-by-frequency) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/SMSRZ/LC/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1635-number-of-good-pairs](https://github.com/SMSRZ/LC/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SMSRZ/LC/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SMSRZ/LC/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/SMSRZ/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/SMSRZ/LC/tree/master/1127-last-stone-weight) |
 ## Merge Sort
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SMSRZ/LC/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/SMSRZ/LC/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
