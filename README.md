@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/SMSRZ/LC/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SMSRZ/LC/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SMSRZ/LC/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/SMSRZ/LC/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/SMSRZ/LC/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SMSRZ/LC/tree/master/1021-remove-outermost-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/SMSRZ/LC/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/SMSRZ/LC/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/SMSRZ/LC/tree/master/1524-string-matching-in-an-array) |
 ## Math
